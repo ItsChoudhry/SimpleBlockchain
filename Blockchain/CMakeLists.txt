@@ -1,0 +1,1 @@
+add_library(Blockchain Block.cpp Block.h)
