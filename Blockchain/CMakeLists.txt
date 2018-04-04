@@ -1,1 +1,1 @@
-add_library(Blockchain Block.cpp Block.h)
+add_library(Blockchain Block.cpp Block.h Blockchain.h Blockchain.cpp sha256.h sha256.cpp)
