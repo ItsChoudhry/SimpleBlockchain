@@ -4,8 +4,6 @@ Creating a simple blockchain program.
 
 ## Build
 
-I build it in a folder to keep it clean and delete everythign generated when needed.
-
 ```
 mkdir bin
 cd bin
